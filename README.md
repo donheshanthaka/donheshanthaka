@@ -1,7 +1,7 @@
 [![@donheshanthaka's Holopin board](https://holopin.me/donheshanthaka)](https://holopin.io/@donheshanthaka)
 
 <h1 align="center">Hi 👋, I'm Heshanthaka</h1>
-<h3 align="center">A software engineering undergraduate with a passion for full-stack and open source development.</h3>
+<h3 align="center">Full-stack developer focused on developing scalable and testable software solutions incorporation with clean code and solid design architecture..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donheshanthaka&label=Profile%20views&color=0e75b6&style=flat" alt="donheshanthaka" /> </p>
 
